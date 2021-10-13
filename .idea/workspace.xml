@@ -78,6 +78,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="init" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="67" key="#Notifications" timestamp="1634118454110">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="67" key="#Notifications/0.0.1536.816@0.0.1536.816" timestamp="1634118454110" />
+    <state x="394" y="3" key="CommitChangelistDialog2" timestamp="1634118369849">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="394" y="3" key="CommitChangelistDialog2/0.0.1536.816@0.0.1536.816" timestamp="1634118369849" />
     <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1634118341244">
       <screen x="0" y="0" width="1536" height="816" />
     </state>
@@ -86,5 +94,9 @@
       <screen x="0" y="0" width="1536" height="816" />
     </state>
     <state x="277" y="51" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1634118342929" />
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2" timestamp="1634118372452">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="361" y="141" key="Vcs.Push.Dialog.v2/0.0.1536.816@0.0.1536.816" timestamp="1634118372452" />
   </component>
 </project>
